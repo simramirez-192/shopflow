@@ -186,3 +186,9 @@ shopflow/
 ## 🔗 Repositorio GitHub
 
 [https://github.com/simramirez-192/shopflow](https://github.com/simramirez-192/shopflow)
+
+---
+
+## 📋 Tablero Trello
+
+[https://trello.com/b/wc8VA3CM/shopflow-dsy1103](https://trello.com/b/wc8VA3CM/shopflow-dsy1103)
